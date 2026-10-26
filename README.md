@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ~~~~text
-                                              , ,          ,                       ,  ,    ,
-                                                ,,        ,,                       ,, ,            ,
-                              ,                                                     ,
                                                                                                  ,
                                                  ,      :,
 
@@ -60,10 +57,4 @@ QcQ@@@@QQ@@mvZ@nnYvZQ@ZQQZ@$@QQQZQQ@Ymn!,",Ql,_ -Q,   ?ZQ_vGmYyCQ$mQ$$QQQnC$nnQ1
 -nCnyCQCCy@QQQQQCCnQQQ@@mQQ@mnGQy$Q@Q,, _ -*l  vA:?l-CQY]cCnQQ$QQQCvy$ynQn!]C$Zn]:!vcycyyyv,?_:__!
  _:llc:!!]CllCnYCny^!lvI@QQHQYQ$QQQv!_*!n"y|mnyy_yCQ$mQGQynyCYCCQnnl!lcI!!YC__|Q$nnv,yCyy:cyy=yyn]||
 nv!c:]ICv?CYCCnvvCCn,r$YvCvc$Ql!,,_]YC$@QlyCl_?vZ$@nQlyn!m@mQYv$ZmlHQQ$CnlQn_mCyCyyyCCcccvylvy!!-,=v
-v!:,!CYvYCYY|Z$nny_- _QQQm$QQ@mmQ$$Z$ZYGCQZQQZ@$mn, -clIZmQy@@$Q$QQ$QQ@@QlcC=|n\?v:!,=yv|-,_^!_   ,-
-Yl!=_!l!vC]Cn:CCCc_  ,,CQncCQm$@QQQQZQ$nylQQQ@@QYC-lAZ@@@@QQ@@@@QYlCnZny,c_=,(v,,!c??,*!!_  ,yv!! ,_
-_:|r,- ,,!!:y=CCv \ccy|CCC!n=v!myQQvCCQn@@*nv=CQHCQ@@@@@@@@@@QQ@QQ$$Cc_-,___!y=]! :_, ,!! ,-=Ync|=!_
-QCnQQC]c]CCC$nY|,!QQ,,_ry]v!  __v]9QQnlCQnlCY QQ@@QnQQ$mQ@$$$Qnn$Y$QQnYYCcn,,\_=v!\,v!=]=]1CCCn , __
-yynCC,CymYCCQn|$      ,    !_,:_=QvHQQy!v_@cll !,QHnY$Q$Q$@QQ@QQ@@@@@@$C!c!:_!!vv,!]y",!,,,,,
-YGnvICCmyny(lYZCv|yCl      _yv!!_:y,Ql*l]QyQ1Cl !(yl|]vCIcQQ$$QQQ$Q@Q@QQy,,_,-       !, - ,, -_,   y
 ~~~~
