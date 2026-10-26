@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ~~~~text
-                                                                                                 ,
-                                                 ,      :,
-
-                                             A,    -                                           ,, ,
-                                             H@QQQQ$QCYYl
-                                             IQZQCCCnycnCQ9YCll
+  kono ko wa motoi kabuto tokage                                                                 ,
+  marui me de jitto miteru yo                    ,      :,
+  togetoge senaka mo kawaii yo
+  yoru ni sotto kao wo dasu yo               A,    -                                           ,, ,
+  mitsumeru dake de iyasareru                H@QQQQ$QCYYl
+  kawaii ni kimatteru ne                     IQZQCCCnycnCQ9YCll
                                            ,@QQcQYCCyQCcrvvvlQQQYl
                               _]:QQQ!,    Z$Q$QC$@mQncCycC!=|CCcc:yQYl
                                  ,  _!!__=yQQ@@@$QQ@ZQQncQc|=vv=CCymQ@@@Q@@v?
